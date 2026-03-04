@@ -1,5 +1,7 @@
+- Vejo se é sábado, domingo ou feriado;
 - Saio do Colégio Dinâmico;
 - Entro no carro e pego o caminho para ir ao Senai;
+- Entro no ônibus para ir ao Senai;
 - Chego no Senai e almoço;
 - Vou para a aula dos professores Thiago e Alexia na sala 09;
 - Assisto a aula até as 15:30;
