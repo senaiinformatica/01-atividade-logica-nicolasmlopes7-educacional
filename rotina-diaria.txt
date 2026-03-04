@@ -1,4 +1,3 @@
-- Vejo se é sábado, domingo ou feriado;
 - Saio do Colégio Dinâmico;
 - Entro no carro e pego o caminho para ir ao Senai;
 - Entro no ônibus para ir ao Senai;
